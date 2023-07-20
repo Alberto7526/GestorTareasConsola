@@ -3,7 +3,7 @@
 Esta aplicación esta diseñada para que se pueda gestonar tareas desde la consola con una "base de datos persistente"
 
 En este caso se esta trabajando con un archivo JSON, el cual me permite leer, guardar, actualizar y eliminar información,
-Acompañado de una consola interativa siendo más amigable con el usuario
+acompañado de una consola interativa siendo más amigable con el usuario
 
 Opciones de mi aplicación de consola
 

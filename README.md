@@ -1,4 +1,4 @@
-# INFORMACION
+# INFORMACIÓN
 
 Esta aplicación esta diseñada para que se pueda gestonar tareas desde la consola con una "base de datos persistente"
 
